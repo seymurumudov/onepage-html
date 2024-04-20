@@ -12,7 +12,7 @@ body {
 }
 
 header {
-  background-color: white;
+  background-color: red;
   padding: 20px 10px;
 }
 header a {
@@ -226,3 +226,7 @@ div .btn-buy button {
   background-clip: text;
   background-image: linear-gradient(45deg, #7b19cb, #3b26db);
 }/*# sourceMappingURL=style.css.map */
+
+.contact-us-section {
+  background-color: red;
+}
